@@ -5,3 +5,17 @@
   color: white;
 }
 
+.video-fluid {
+  width: 100%;
+  height: 1000px;
+}
+
+.margin {
+  margin-top: -8px;
+}
+
+.center{
+  margin-top: 100px;
+  margin-bottom: 200px;;
+}
+
